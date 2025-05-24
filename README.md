@@ -7,7 +7,7 @@
 
 This is the frontend of my blog application. It allows users to register, login, create blog posts, view public posts, and manage their own posts. The frontend is built using React, Axios, Bootstrap, and React Router.
 
-👉 Video Demo: https://screenrec.com/share/jbBqNXL9sa
+
 
 
 ```markdown
